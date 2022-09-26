@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "arsrarible-exchange-wrapper",
+    "branch": "master"
+  },
+  "name": "ArsRarible",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": "4"
+}
